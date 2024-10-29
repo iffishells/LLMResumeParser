@@ -4,11 +4,6 @@ This tool streamlines the extraction of key information from resumes in both PDF
 
 The tool uses the OpenAI API, requiring an API key to function correctly. Be sure to keep your API key secure and adhere to OpenAI’s usage guidelines.
 
-
-
-Here's a template for a README file to help set up and use your resume extraction tool:
-
-
 ## Table of Contents
 - [Installation](#installation)
 - [Requirements](#requirements)
@@ -90,8 +85,3 @@ Once launched, access the application through your browser (usually at `http://l
 ## Troubleshooting
 
 For issues or questions, please refer to the documentation or submit an issue on this repository.
-
----
-
-This README should guide you through setting up and using the resume extraction tool effectively. Let me know if you’d like any further customization!
-
